@@ -1,0 +1,85 @@
+*{
+        background-color: rgb(185, 224, 131);
+}
+.intro h1{
+    font-size: 90px;
+    background-size:cover ;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 3px 4px rgb(240, 236, 236);
+    margin-top: -500px;
+    margin-left: 800px;
+    text-align: center;
+    font-family: "Ga Maamli", sans-serif;
+}
+.intro h3{
+    text-align: center;
+    font-size: 50px;
+    color: darkgoldenrod;
+    margin-left: 800px;
+    text-shadow: 2px 3px 4px black;
+
+}
+.intro img{
+    background-attachment: fixed;
+    margin-left: 200px;
+}
+.powers{
+    text-align: center;
+    font-family: "Gloria Hallelujah", cursive;
+}
+.powers h2{
+    font-size: 60px;
+    color: rgb(143, 13, 13);
+
+}
+.powers ul li a{
+    text-decoration: none;
+    font-size: 40px;
+    color: rgb(9, 46, 139);
+}
+#fastrunner{
+    margin-top: -20px;
+}
+#fastrunner h2{
+    font-family: "Gloria Hallelujah", cursive;
+    color: rgb(255, 111, 0);
+    font-size: 50px;
+    text-shadow: 2px 3px 4px black
+}
+#fastrunner img{
+    background-attachment: fixed;
+    position: relative;
+    background-size: cover;
+}
+.image{
+    position: relative;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    background-size: cover;
+    /* width: 700px;
+    align-items: center; */
+}
+.img1{
+    background-image: url(https://cdn.pixabay.com/photo/2023/07/08/20/28/super-hero-8115139_1280.png);
+}
+.img2{
+    background-image: url(https://cdn.pixabay.com/photo/2024/04/10/18/42/ai-generated-8688649_1280.png);
+}
+.img3{
+    background-image: url(https://imgcdn.stablediffusionweb.com/2024/4/24/31bc5533-5595-4ed1-9be3-0878cd1f0c13.jpg);
+}
+.img4{
+    background-image: url(https://img.freepik.com/premium-photo/picture-person-wearing-red-suit-red-jacket-with-word-goggles-it_878783-5956.jpg);
+}
+.btnn button:hover{
+    scale: 1.1;
+}
+footer{
+    margin-top: -30px;
+}
+p{
+    font-family: "Caveat", cursive;
+    font-size: 20px;
+    color: rgb(5, 0, 100);
+}
